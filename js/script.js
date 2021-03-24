@@ -6,6 +6,7 @@ var app = new Vue (
   {
     el: "#root",
     data: {
-      message: "bibabu",
+      message: "Voglio andare in vacanza",
+      immagine: "img/lago.jpeg"
   }
 });
